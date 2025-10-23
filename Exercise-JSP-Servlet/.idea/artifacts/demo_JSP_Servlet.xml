@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="demo_JSP-Servlet">
+    <output-path>$USER_HOME$/IdeaProjects/Exercise-JSP-Servlet/out/artifacts/demo_JSP_Servlet_war_exploded</output-path>
+    <root id="root" />
+  </artifact>
+</component>
